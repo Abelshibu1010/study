@@ -5,5 +5,4 @@ void main()
  printf("enter the radius");
  scanf("%f",&r);
  area=3.14*r*r;
- printf("area of circle=%f",area);
-} 
+ printf("area of circle=%f",Area);
